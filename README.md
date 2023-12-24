@@ -13,6 +13,6 @@ We warmly welcome the contributors to get a chance to work on this product from 
 - In Free plan, users will be offered to collaborate with 3 people in realtime per document, 30 tokens for AI content writing, 10 tokens for AI Image generation, 10 Tokens for Audio generation weekly.
 - In Paid plan, users can add upto 10 users to collaborate in realtime per document, 120 AI content writing, 50 Images, Audio generation weekly.
 
-  ## Technologies to be used:
+## Technologies to be used:
   - Backend: Node js
   - Mobile app - To be decided yet
